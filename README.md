@@ -15,6 +15,7 @@ https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.
 https://github.com/nicholasjhana/tensorflow-certification-study-guide
 
 参考书
+
 <img src="https://static01.helion.com.pl/global/okladki/326x466/e_2xyy.png" width=100>
 ***
 
