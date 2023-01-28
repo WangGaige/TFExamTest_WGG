@@ -20,7 +20,7 @@ https://github.com/nicholasjhana/tensorflow-certification-study-guide
 
 ***
 第一阶段学习内容 https://www.tensorflow.org/tutorials/quickstart/advanced?hl=zh-cn
-- https://www.tensorflow.org/tutorials/quickstart/beginner
+- ~~https://www.tensorflow.org/tutorials/quickstart/beginner~~
 - https://www.tensorflow.org/tutorials/quickstart/advanced
 ***
 
