@@ -17,6 +17,11 @@ https://github.com/nicholasjhana/tensorflow-certification-study-guide
 参考书
 
 <img src="https://static01.helion.com.pl/global/okladki/326x466/e_2xyy.png" width=100>
+
 ***
+第一阶段学习内容 https://www.tensorflow.org/tutorials/quickstart/advanced?hl=zh-cn
+***
+
+
 
 
