@@ -19,9 +19,12 @@ https://github.com/nicholasjhana/tensorflow-certification-study-guide
 <img src="https://static01.helion.com.pl/global/okladki/326x466/e_2xyy.png" width=100>
 
 ***
-第一阶段学习内容 https://www.tensorflow.org/tutorials/quickstart/advanced?hl=zh-cn
+第一阶段学习内容 
 - ~~https://www.tensorflow.org/tutorials/quickstart/beginner~~
-- https://www.tensorflow.org/tutorials/quickstart/advanced **不用keras实现，较为复杂**
+- https://www.tensorflow.org/tutorials/quickstart/advanced **演示了不用keras实现训练，较为复杂**
+***
+第二阶段学习内容 VISION
+- https://www.tensorflow.org/tutorials/images/cnn
 ***
 
 
